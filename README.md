@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fahad Masroor</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad&label=Profile%20views&color=0e75b6&style=flat" alt="fahad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@i_fahad786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fahad-masroor-1b3376216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/b4H2roUr8mxCKHMM/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad" height="30" width="40" /></a>
-<a href="https://instagram.com/fah_adi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahad-masroor-1b3376216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-masroor-1b3376216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/b4h2rour8mxckhmm/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/b4h2rour8mxckhmm/?mibextid=qi2omg" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/fah_adi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/fah_adi_04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
