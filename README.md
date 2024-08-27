@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@i_fahad786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fahad-masroor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad" height="30" width="40" /></a>
-<a href="https://fb.com/fahad-masroor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahad-masroor-1b3376216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/b4H2roUr8mxCKHMM/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahad" height="30" width="40" /></a>
 <a href="https://instagram.com/fah_adi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahad" height="30" width="40" /></a>
 </p>
 
