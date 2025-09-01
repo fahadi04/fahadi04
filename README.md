@@ -1,89 +1,62 @@
-<!-- Banner Section -->
-<div align="center">
-  <img src="https://res.cloudinary.com/dh7fvtv7e/image/upload/v1724785048/165451783_771682030451190_4140985375354698882_n_zlzv9e.jpg" alt="Banner" style="width: 100%; height: auto; max-width: 1200px;" />
-</div>
+# 👋 Hi, I'm Fahad Masroor  
 
-<!-- Main Content -->
-<h1 align="center">Hi 👋, I'm Fahad Masroor</h1>
-<h3 align="center">I’m a passionate Full Stack Web Developer from India, skilled in creating dynamic web applications with modern technologies. </h3>
+🚀 A motivated **Software Engineering graduate** passionate about **Frontend Development, MERN Stack, and Java Full Stack Development**.  
+I love building scalable, user-friendly, and impactful web applications.  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadmasroor&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.facebook.com/share/b4H2roUr8mxCKHMM/?mibextid=qi2Omg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhat muddu" height="30" width="40" />
-  </a>
-   <a href="[https://www.linkedin.com/in/mudasir-bhat-553119228/](https://www.linkedin.com/in/fahad-masroor-1b3376216/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/@i_fahad786" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/fah_adi_04/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhat_muddu_472" height="30" width="40" />
-  </a>
-</p>
+## 💻 Tech Stack  
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-</p>
+**Frontend:** React.js, HTML, CSS, JavaScript (ES6+), Tailwind CSS  
+**Backend:** Node.js, Express.js, Java (Spring Boot, Hibernate)  
+**Database:** MongoDB, MySQL  
+**Other Tools:** Git, GitHub, Firebase, Vite, JWT, Redux/Context API  
 
-<h3 align="center">Profile Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasirbhat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudasirbhat&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
-<h3 align="center">Some GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudasirbhat&theme=radical" alt="GitHub Trophy" />
-</p>
+## 🌟 Projects  
 
-<h3 align="center">Wanna know more?</h3>
-<p align="center">
-  <a href="https://github.com/fahadi04">
-    <img src="https://img.shields.io/badge/-My%20GitHub%20Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+### 🔹 [Golden Care](https://github.com/fahadi04/golden-care)  
+A **senior citizen care platform** with email, SMS & app notifications.  
+- Role-based authentication for users, admins, and caregivers  
+- Notifications via **Firebase & Nodemailer**  
+- Tech: React.js, Node.js, Express, MongoDB  
+
+---
+
+### 🔹 [Med-Scheduler](https://github.com/fahadi04/med-scheduler)  
+A **doctor appointment booking system**.  
+- JWT Authentication with refresh tokens & password reset  
+- Appointment management & reminders with real-time notifications  
+- Calendar integration + Tailwind UI  
+- Tech: MERN Stack  
+
+---
+
+### 🔹 [Tasty Burger](https://github.com/fahadi04/tasty-burger)  
+A **restaurant web app** for orders and menu management.  
+- Interactive menu & order tracking  
+- User authentication & role-based access  
+- Tech: MERN Stack  
+
+---
+
+### 🔹 [Zakata Care](https://github.com/fahadi04/zakata-care)  
+A **healthcare support platform**.  
+- Appointment scheduling & reminders  
+- Real-time alerts and notifications  
+- Tech: MERN Stack  
+
+---
+
+## 📊 GitHub Stats  
+
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadi04&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadi04&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fahad-masroor-1b3376216/)  
+- 📧 Email: masroorfahad2704@gmail.com  
