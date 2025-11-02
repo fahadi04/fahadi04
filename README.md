@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fahad Masroor  
 
-🚀 A motivated **Software Engineering graduate** passionate about **Frontend Development, MERN Stack, and Java Full Stack Development**.  
+🚀 A motivated **Software Engineering graduate** passionate about **Software Development, MERN Stack, and Java Full Stack Development**.  
 I love building scalable, user-friendly, and impactful web applications.  
 
 ---
@@ -10,7 +10,7 @@ I love building scalable, user-friendly, and impactful web applications.
 **Frontend:** React.js, HTML, CSS, JavaScript (ES6+), Tailwind CSS  
 **Backend:** Node.js, Express.js, Java (Spring Boot, Hibernate)  
 **Database:** MongoDB, MySQL  
-**Other Tools:** Git, GitHub, Firebase, Vite, JWT, Redux/Context API  
+**Other Tools:** Git, GitHub, Firebase, Vite, JWT, Redux/Context API ,Cursor AI
 
 ---
 
